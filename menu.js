@@ -53,4 +53,4 @@ if (prato == 5 && tempo < 8) {
 
 
 
-microondas(1,30);
+microondas(0,30);
