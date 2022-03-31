@@ -1,1 +1,2 @@
 # menumicroondas
+exercicio de aula
